@@ -3,6 +3,11 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+composer.json
+composer.lock
+vendor/
+myenv/
+
 # Laravel 4 specific
 bootstrap/compiled.php
 app/storage/
