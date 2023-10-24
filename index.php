@@ -8,6 +8,7 @@
 <body>
     <h1>Task List</h1>
     <?php
+    require 'controller.php';
     $controller = new TaskController();
     $controller->showTasks();
     ?>
